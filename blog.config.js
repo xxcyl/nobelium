@@ -2,7 +2,7 @@ const BLOG = {
   title: 'AccelAuralDocs',
   author: 'LCY',
   email: 'wittyxx@gmail.com',
-  link: 'aruldocs.vercel.app',
+  link: 'https://aruldocs.vercel.app',
   description: '聽力新知速報',
   lang: 'zh-TW', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   timezone: 'Asia/Taipei', // Your Notion posts' date will be interpreted as this timezone. See https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for all options.
