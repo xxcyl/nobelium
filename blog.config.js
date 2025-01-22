@@ -1,9 +1,9 @@
 const BLOG = {
-  title: '聽力新知速報',
-  author: 'LCY',
-  email: 'wittyxx@gmail.com',
-  link: 'https://auraldocs.vercel.app',
-  description: '聽力新知速報',
+  title: 'IMCYL',
+  author: 'CYL',
+  email: '',
+  link: 'https://imcyl.vercel.app',
+  description: '隨意書寫的地方',
   lang: 'zh-TW', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   timezone: 'Asia/Taipei', // Your Notion posts' date will be interpreted as this timezone. See https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for all options.
   appearance: 'light', // ['light', 'dark', 'auto'],
@@ -11,7 +11,7 @@ const BLOG = {
   lightBackground: '#ffffff', // use hex value, don't forget '#' e.g #fffefc
   darkBackground: '#18181B', // use hex value, don't forget '#'
   path: '', // leave this empty unless you want to deploy Nobelium in a folder
-  since: 2023, // If leave this empty, current year will be used.
+  since: 2025, // If leave this empty, current year will be used.
   postsPerPage: 7,
   sortByDate: false,
   showAbout: true,
